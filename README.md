@@ -10,4 +10,7 @@ COLNEW - a version of COLTES with a more efficient method for determining odd an
 *note: I havent been able to get either of the two previous programs to run past 64 ever since I updated the OS on my calculator*  
 *funny story: COLNEW once ran until the calculator ran out of battery which clears the ram and all programs*  
 *TLDR: COLNEW managed to delete itself*  
-CRASHD - ¯\\\_(ツ)\_/¯
+CRASHD - ¯\\\_(ツ)\_/¯  
+DECBIN - decimal to binary conveter  
+DECHEX - decimal to Hex converter  
+EVNODD\nstuff
