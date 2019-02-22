@@ -21,6 +21,19 @@ GRDDES - prank program to transer to an unlucky friend's calculator. Messus up g
 GRDFIX - empty. was intended to fix the graph after GRDDES
 HALFEC - ¯\\\_(ツ)\_/¯
 KEKKEK - simple endless function for entertaimnet/battery-wasitng purposes  
-KEKYOU - more battery wasting fun
-LENCON - length unit coveter. amde before i knew how to use menu(
-LOLOO - ¯\\\_(ツ)\_/¯
+KEKYOU - more battery wasting fun  
+LENCON - length unit coveter. amde before i knew how to use menu(  
+LOLOO - ¯\\\_(ツ)\_/¯  
+MENUUU - stupid test, technically broken. requires pic 1 and 2  
+ONESEC - function to manually wait one second. Lasts too long ever since the update  
+PRFIND - finds all prime numbers in succession starting with the given number  
+PRIME - finds all factors of a number. not sure of difference between BIGFCT  
+REFFIN - finds reference angles? Sure wish I remembered that lesson from trig  
+RKPRSC - game of rock paper scissors with a few random additions  
+STRSTR - ¯\\\_(ツ)\_/¯  
+TEST - ¯\\\_(ツ)\_/¯  
+TRIALS - my first assembly program  
+TRIANG - triangle solver  
+USERS - ¯\\\_(ツ)\_/¯  
+WAVESY - used to be an animation of a stick figure waving. Requires pic 3 4 and 5.  
+*this program is proof that the update changed how TI BASIC is compiled becuse it runs abotu 1/3 the speed it used to*
