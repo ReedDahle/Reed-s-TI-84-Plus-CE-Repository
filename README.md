@@ -16,10 +16,10 @@ DECBIN - decimal to binary conveter
 DECHEX - decimal to Hex converter  
 EVNODD - displays whether the number is even or odd using method in COLNEW  
 FOR - ¯\\\_(ツ)\_/¯  
-FRCSEP - input a fraction, outputs numeratior to N and denominator to D. I don't remember why I made this
-GRDDES - prank program to transer to an unlucky friend's calculator. Messus up graph settings and draws a bunch of junk graphs
-GRDFIX - empty. was intended to fix the graph after GRDDES
-HALFEC - ¯\\\_(ツ)\_/¯
+FRCSEP - input a fraction, outputs numeratior to N and denominator to D. I don't remember why I made this  
+GRDDES - prank program to transer to an unlucky friend's calculator. Messus up graph settings and draws a bunch of junk graphs  
+GRDFIX - empty. was intended to fix the graph after GRDDES  
+HALFEC - ¯\\\_(ツ)\_/¯  
 KEKKEK - simple endless function for entertaimnet/battery-wasitng purposes  
 KEKYOU - more battery wasting fun  
 LENCON - length unit coveter. amde before i knew how to use menu(  
