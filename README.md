@@ -36,4 +36,4 @@ TRIALS - my first assembly program
 TRIANG - triangle solver  
 USERS - ¯\\\_(ツ)\_/¯  
 WAVESY - used to be an animation of a stick figure waving. Requires pic 3 4 and 5.  
-*this program is proof that the update changed how TI BASIC is compiled becuse it runs abotu 1/3 the speed it used to*
+*this program is proof that the update changed how TI BASIC is compiled becuse it runs about 1/3 the speed it used to*
